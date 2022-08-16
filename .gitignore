@@ -1,7 +1,6 @@
 node_modules
 npm-debug.log
 .DS_Store
-/src/appsettings.secrets.ts
 /spec/.working/
 .nyc_output
 coverage
